@@ -1,2 +1,2 @@
 # Kernel-FDA
-Проект по Машинному обучению на ИППИ. Реализация алгоритма KFDA (Kernel Fisher discriminant analysis) на python. Примеры его использования и анализ точности.
+Проект по Машинному обучению. Реализация алгоритма KFDA (Kernel Fisher discriminant analysis) на Python. Примеры его использования и анализ точности.
